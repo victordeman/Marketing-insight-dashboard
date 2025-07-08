@@ -1,0 +1,5 @@
+customer_id,company_name,region,industry,last_engagement,email_open_rate
+1,Acme Corp,EMEA,Retail,2025-06-01,25.5
+2,Global Tech,APAC,Technology,2025-06-15,30.2
+3,Retail Giants,EMEA,Retail,2025-05-20,22.8
+4,ManuCorp,NA,Manufacturing,2025-06-10,18.7

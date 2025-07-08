@@ -1,0 +1,5 @@
+Note: The process_improvements.pdf cannot be created via batch file. Please create a PDF manually with the following content:
+Process Improvements for Marketing-insight-dashboard
+2. Integrate AWS Aurora for scalable, real-time data storage and querying.
+3. Implement AMPscript-like logic in Python for advanced email personalization.
+4. Add A/B testing for email subject lines to optimize open rates.
