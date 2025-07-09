@@ -1,4 +1,4 @@
-This project simulates a B2B email marketing campaign for DHL’s CSI unit, including audience segmentation, email generation, LinkedIn scheduling, and analytics.
+This project simulates a B2B email marketing campaign for DHL’s CSI unit, including audience segmentation, email generation, LinkedIn scheduling, and analytics.  If you have trouble implementing of deploying the code, mail me. Afterwards, buy me a drink
 1. Install dependencies:
 2. Run segmentation:
 3. Generate emails:
